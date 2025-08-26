@@ -2,7 +2,7 @@
 title: 'Global Public Data API Hub: A Unified Interface for Open Datasets'
 authors:
   - name: Kalyana Krishna Kondapalli
-    orcid: 0000-0000-0000-0000
+    orcid: 0009-0003-0832-259X
     affiliation: 1
 affiliations:
   - name: Independent Researcher
