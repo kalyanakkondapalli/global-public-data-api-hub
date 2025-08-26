@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+title: "Global Public Data API Hub"
+message: "If you use this software, please cite it using the following metadata."
+type: software
+authors:
+  - family-names: "Kondapalli"
+    given-names: "Kalyana Krishna"
+    orcid: "0000-0000-0000-0000"
+repository-code: "https://github.com/your-org/global-public-data-api-hub"
+keywords:
+  - open data
+  - fastapi
+  - reproducibility
+  - ETL
+license: MIT
+version: "0.1.1"
